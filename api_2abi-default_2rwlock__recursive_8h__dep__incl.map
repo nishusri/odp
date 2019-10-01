@@ -1,0 +1,12 @@
+<map id="rwlock_recursive.h" name="rwlock_recursive.h">
+<area shape="rect" id="node2" href="$arch_2arm32-linux_2odp_2api_2abi_2rwlock__recursive_8h_source.html" title="rwlock_recursive.h" alt="" coords="5,80,144,107"/>
+<area shape="rect" id="node3" href="$arch_2arm64-linux_2odp_2api_2abi_2rwlock__recursive_8h_source.html" title="rwlock_recursive.h" alt="" coords="168,80,307,107"/>
+<area shape="rect" id="node4" href="$arch_2default-linux_2odp_2api_2abi_2rwlock__recursive_8h_source.html" title="rwlock_recursive.h" alt="" coords="331,80,469,107"/>
+<area shape="rect" id="node5" href="$arch_2mips64-linux_2odp_2api_2abi_2rwlock__recursive_8h_source.html" title="rwlock_recursive.h" alt="" coords="493,80,632,107"/>
+<area shape="rect" id="node6" href="$arch_2power64-linux_2odp_2api_2abi_2rwlock__recursive_8h_source.html" title="rwlock_recursive.h" alt="" coords="656,80,795,107"/>
+<area shape="rect" id="node7" href="$arch_2x86__32-linux_2odp_2api_2abi_2rwlock__recursive_8h_source.html" title="rwlock_recursive.h" alt="" coords="819,80,957,107"/>
+<area shape="rect" id="node8" href="$arch_2x86__64-linux_2odp_2api_2abi_2rwlock__recursive_8h_source.html" title="rwlock_recursive.h" alt="" coords="981,80,1120,107"/>
+<area shape="rect" id="node9" href="$api_2rwlock__recursive_8h.html" title="ODP resursive read/write lock. " alt="" coords="981,155,1120,181"/>
+<area shape="rect" id="node10" href="$odp__api_8h.html" title="The OpenDataPlane API. " alt="" coords="1009,229,1093,256"/>
+<area shape="rect" id="node11" href="$odp_8h.html" title="WARNING: THIS FILE IS DEPRECATED AND WILL BE REMOVED!!! ODP APPLICATIONS SHOULD NOW INCLUDE odp_api..." alt="" coords="1021,304,1080,331"/>
+</map>

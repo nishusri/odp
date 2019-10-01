@@ -1,0 +1,27 @@
+<map id="deprecated.h" name="deprecated.h">
+<area shape="rect" id="node2" href="$api_2abi-default_2classification_8h_source.html" title="classification.h" alt="" coords="491,229,605,256"/>
+<area shape="rect" id="node13" href="$odp__api_8h.html" title="The OpenDataPlane API. " alt="" coords="1035,752,1119,779"/>
+<area shape="rect" id="node19" href="$api_2spec_2crypto_8h.html" title="ODP crypto. " alt="" coords="1057,155,1132,181"/>
+<area shape="rect" id="node21" href="$api_2spec_2packet__io_8h.html" title="ODP Packet IO. " alt="" coords="977,304,1071,331"/>
+<area shape="rect" id="node22" href="$queue__types_8h.html" title="ODP queue types. " alt="" coords="1207,80,1323,107"/>
+<area shape="rect" id="node3" href="$arch_2arm32-linux_2odp_2api_2abi_2classification_8h_source.html" title="classification.h" alt="" coords="283,304,397,331"/>
+<area shape="rect" id="node4" href="$arch_2arm64-linux_2odp_2api_2abi_2classification_8h_source.html" title="classification.h" alt="" coords="421,304,536,331"/>
+<area shape="rect" id="node5" href="$arch_2default-linux_2odp_2api_2abi_2classification_8h_source.html" title="classification.h" alt="" coords="560,304,675,331"/>
+<area shape="rect" id="node6" href="$arch_2mips64-linux_2odp_2api_2abi_2classification_8h_source.html" title="classification.h" alt="" coords="699,304,813,331"/>
+<area shape="rect" id="node7" href="$arch_2power64-linux_2odp_2api_2abi_2classification_8h_source.html" title="classification.h" alt="" coords="5,304,120,331"/>
+<area shape="rect" id="node8" href="$arch_2x86__32-linux_2odp_2api_2abi_2classification_8h_source.html" title="classification.h" alt="" coords="144,304,259,331"/>
+<area shape="rect" id="node9" href="$arch_2x86__64-linux_2odp_2api_2abi_2classification_8h_source.html" title="classification.h" alt="" coords="837,304,952,331"/>
+<area shape="rect" id="node10" href="$api_2classification_8h.html" title="ODP classification descriptor. " alt="" coords="776,528,891,555"/>
+<area shape="rect" id="node15" href="$api_2packet__io_8h.html" title="ODP Packet IO. " alt="" coords="863,379,958,405"/>
+<area shape="rect" id="node11" href="$api_2spec_2ipsec_8h.html" title="ODP IPSEC API. " alt="" coords="873,603,940,629"/>
+<area shape="rect" id="node12" href="$api_2ipsec_8h.html" title="ODP IPSEC API &#45; platform specific header. " alt="" coords="905,677,972,704"/>
+<area shape="rect" id="node14" href="$odp_8h.html" title="WARNING: THIS FILE IS DEPRECATED AND WILL BE REMOVED!!! ODP APPLICATIONS SHOULD NOW INCLUDE odp_api..." alt="" coords="1048,827,1107,853"/>
+<area shape="rect" id="node16" href="$api_2spec_2classification_8h.html" title="ODP classification descriptor. " alt="" coords="776,453,891,480"/>
+<area shape="rect" id="node17" href="$api_2spec_2traffic__mngr_8h.html" title="Copyright (c) 2015&#45;2018, Linaro Limited All rights reserved. " alt="" coords="966,453,1077,480"/>
+<area shape="rect" id="node18" href="$api_2traffic__mngr_8h.html" title="ODP Traffic manager. " alt="" coords="965,603,1075,629"/>
+<area shape="rect" id="node20" href="$api_2crypto_8h.html" title="ODP crypto. " alt="" coords="1057,528,1132,555"/>
+<area shape="rect" id="node23" href="$api_2spec_2queue_8h.html" title="ODP queue. " alt="" coords="1228,155,1303,181"/>
+<area shape="rect" id="node24" href="$api_2queue_8h.html" title="ODP queue. " alt="" coords="1228,229,1303,256"/>
+<area shape="rect" id="node25" href="$api_2spec_2schedule_8h.html" title="ODP schedule. " alt="" coords="1308,304,1399,331"/>
+<area shape="rect" id="node26" href="$api_2schedule_8h.html" title="ODP schedule. " alt="" coords="1308,677,1399,704"/>
+</map>

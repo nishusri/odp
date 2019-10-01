@@ -1,0 +1,20 @@
+<map id="cpumask.h" name="cpumask.h">
+<area shape="rect" id="node2" href="$api_2cpumask_8h.html" title="ODP CPU masks and enumeration. " alt="" coords="748,80,840,107"/>
+<area shape="rect" id="node3" href="$api_2abi-default_2thrmask_8h.html" title="ODP thread masks. " alt="" coords="393,155,480,181"/>
+<area shape="rect" id="node14" href="$odp__api_8h.html" title="The OpenDataPlane API. " alt="" coords="752,528,836,555"/>
+<area shape="rect" id="node16" href="$api_2spec_2init_8h.html" title="init.h" alt="" coords="831,155,885,181"/>
+<area shape="rect" id="node4" href="$arch_2arm32-linux_2odp_2api_2abi_2thrmask_8h_source.html" title="thrmask.h" alt="" coords="5,229,92,256"/>
+<area shape="rect" id="node5" href="$arch_2arm64-linux_2odp_2api_2abi_2thrmask_8h_source.html" title="thrmask.h" alt="" coords="116,229,203,256"/>
+<area shape="rect" id="node6" href="$arch_2default-linux_2odp_2api_2abi_2thrmask_8h_source.html" title="thrmask.h" alt="" coords="227,229,313,256"/>
+<area shape="rect" id="node7" href="$arch_2mips64-linux_2odp_2api_2abi_2thrmask_8h_source.html" title="thrmask.h" alt="" coords="337,229,424,256"/>
+<area shape="rect" id="node8" href="$arch_2power64-linux_2odp_2api_2abi_2thrmask_8h_source.html" title="thrmask.h" alt="" coords="448,229,535,256"/>
+<area shape="rect" id="node9" href="$arch_2x86__32-linux_2odp_2api_2abi_2thrmask_8h_source.html" title="thrmask.h" alt="" coords="559,229,645,256"/>
+<area shape="rect" id="node10" href="$arch_2x86__64-linux_2odp_2api_2abi_2thrmask_8h_source.html" title="thrmask.h" alt="" coords="669,229,756,256"/>
+<area shape="rect" id="node11" href="$api_2thrmask_8h.html" title="ODP thread masks. " alt="" coords="669,304,756,331"/>
+<area shape="rect" id="node12" href="$api_2spec_2schedule_8h.html" title="ODP schedule. " alt="" coords="615,379,706,405"/>
+<area shape="rect" id="node13" href="$api_2schedule_8h.html" title="ODP schedule. " alt="" coords="615,453,706,480"/>
+<area shape="rect" id="node15" href="$odp_8h.html" title="WARNING: THIS FILE IS DEPRECATED AND WILL BE REMOVED!!! ODP APPLICATIONS SHOULD NOW INCLUDE odp_api..." alt="" coords="765,603,823,629"/>
+<area shape="rect" id="node17" href="$api_2init_8h.html" title="ODP initialization. " alt="" coords="831,304,885,331"/>
+<area shape="rect" id="node18" href="$api_2spec_2shared__memory_8h.html" title="ODP shared memory. " alt="" coords="883,379,1020,405"/>
+<area shape="rect" id="node19" href="$api_2shared__memory_8h.html" title="ODP shared memory. " alt="" coords="883,453,1020,480"/>
+</map>
